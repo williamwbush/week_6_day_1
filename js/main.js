@@ -342,3 +342,4 @@ console.log(group_of_names[0].search('G'))
 
 // String.slice()
 console.log(group_of_names[1].slice(0,group_of_names[1].length))
+
